@@ -1,4 +1,4 @@
-apty
+Mapty
 
 A JavaScript app to track running and cycling workouts on a map.
 
